@@ -1,0 +1,41 @@
+body{
+    width: 780px;
+    height: 780px;
+    background-image: url(terradonut.jpg);
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    width: 300px;
+    height: 300px;
+    color: wheat;
+    display: flex;
+}
+
+.terra{
+    display: flex;
+    justify-content: center;
+    color: wheat;
+    align-items: flex-start;
+    width: 300px;
+    height: 300px;
+    padding-left: 550px;
+   
+   
+}
+footer{
+    text-align: center;
+    padding: 40px 0;
+}
+
+.copyright{
+    color: black;
+    font-size: 13px;
+    padding: 50px;
+    margin-left: 530px;
+}
+
+
+
+
